@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Your CSS file or component styles */
+.btn-active {
+  background-color: hsl(200, 100%, 75%);
+  color: white;
+}
+
+.btn-inactive {
+  opacity: .3;
+}
